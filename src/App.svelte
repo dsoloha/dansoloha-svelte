@@ -1,8 +1,10 @@
 <script>
-
-import { title } from "process";
-
+  import About from './pages/about.svelte';
+  import Contact from './pages/contact.svelte';
+  import Projects from './pages/projects.svelte';
+  import Resume from './pages/resume.svelte';
 </script>
+
 <main>
   <h1>Hi. I'm Dan.</h1>
   <h2>
@@ -11,4 +13,9 @@ import { title } from "process";
   <p>
     This site is very much under construction, so please check back soon.
   </p>
+
+  <Resume />
+  <Projects />
+  <About />
+  <Contact />
 </main>
