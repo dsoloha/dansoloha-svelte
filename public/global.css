@@ -46,6 +46,9 @@ code:before,
 code:after {
   content: '\`';
 }
+ul {
+  text-align: left;
+}
 
 @media (prefers-color-scheme: dark) {
   * {
