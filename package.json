@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "dansoloha-svelte",
   "version": "0.0.1",
   "scripts": {
     "dev": "svelte-kit dev",
