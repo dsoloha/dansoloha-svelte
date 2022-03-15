@@ -1,10 +1,11 @@
 <header>
-	<a href="/">
-		Home
-	</a>
-
 	<nav>
 		<ul>
+			<li>
+				<a href="/">
+					Home
+				</a>
+			</li>
 			<li>
 				<a href="/projects">
 					Projects
@@ -31,10 +32,9 @@
 
 <style>
 	header {
-    background: lightskyblue;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: center;
     padding: 1rem;
   }
 

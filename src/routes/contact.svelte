@@ -3,5 +3,5 @@
 </h1>
 
 <p>
-	Contact information here.
+	Contact information will go here.
 </p>

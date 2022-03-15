@@ -3,5 +3,5 @@
 </h1>
 
 <p>
-	A list of projects I've done here.
+	A list of projects I've done will go here.
 </p>

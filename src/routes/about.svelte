@@ -3,5 +3,5 @@
 </h1>
 
 <p>
-	Some text here.
+	Some text about myself will go here.
 </p>
