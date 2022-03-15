@@ -34,13 +34,14 @@
 	header {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: right;
     padding: 1rem;
+		margin-right: 4rem;
   }
 
   ul {
     display: flex;
-    gap: 1rem;
+    gap: 3rem;
     list-style-type: none;
     margin: 0;
   }
