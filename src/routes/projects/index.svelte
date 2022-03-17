@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>projects | dansoloha.me</title>
+</svelte:head>
+
 <h1>
 	Projects
 </h1>

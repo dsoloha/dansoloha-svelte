@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>uses | dansoloha.me</title>
+</svelte:head>
+
 <h1>
 	Uses
 </h1>
