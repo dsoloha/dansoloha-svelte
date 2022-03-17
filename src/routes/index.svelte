@@ -1,6 +1,6 @@
-<script>
-
-</script>
+<svelte:head>
+	<title>home | dansoloha.me</title>
+</svelte:head>
 
 <h1>
 	Hi. I'm Dan.

@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>contact | dansoloha.me</title>
+</svelte:head>
+
 <h1>
 	Contact
 </h1>
