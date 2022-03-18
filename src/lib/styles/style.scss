@@ -15,3 +15,10 @@ main {
     color: white;
   }
 }
+
+@media only screen and (max-width: 600px) {
+	main {
+		margin: 1rem auto;
+		padding: 0 3rem;
+	}
+}
