@@ -50,4 +50,17 @@
     color: inherit;
     text-decoration: none;
   }
+
+
+	@media only screen and (max-width: 600px) {
+		header {
+			margin: auto;
+			justify-content: center;
+		}
+
+		ul {
+			gap: 1rem;
+			padding: 0;
+		}
+	}
 </style>

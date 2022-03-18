@@ -23,4 +23,15 @@
 	h2 {
 		line-height: 1.5;
 	}
+
+	@media only screen and (max-width: 600px) {
+		* {
+			text-align: center;
+		}
+
+		h1 {
+			font-size: 4rem;
+			line-height: 1.5;
+		}
+	}
 </style>
