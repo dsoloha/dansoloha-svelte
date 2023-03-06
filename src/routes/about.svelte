@@ -1,11 +1,7 @@
 <svelte:head>
-	<title>about | dansoloha.me</title>
+  <title>about | dansoloha.me</title>
 </svelte:head>
 
-<h1>
-	About
-</h1>
+<h1>About</h1>
 
-<p>
-	Some text about myself will go here.
-</p>
+<p>Some text about myself will go here.</p>

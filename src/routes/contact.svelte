@@ -1,11 +1,7 @@
 <svelte:head>
-	<title>contact | dansoloha.me</title>
+  <title>contact | dansoloha.me</title>
 </svelte:head>
 
-<h1>
-	Contact
-</h1>
+<h1>Contact</h1>
 
-<p>
-	Contact information will go here.
-</p>
+<p>Contact information will go here.</p>

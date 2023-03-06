@@ -1,42 +1,32 @@
 <header>
-	<nav>
-		<ul>
-			<li>
-				<a href="/">
-					Home
-				</a>
-			</li>
-			<li>
-				<a href="/projects">
-					Projects
-				</a>
-			</li>
-			<li>
-				<a href="/about">
-					About
-				</a>
-			</li>
-			<li>
-				<a href="/contact">
-					Contact
-				</a>
-			</li>
-			<li>
-				<a href="/uses">
-					Uses
-				</a>
-			</li>
-		</ul>
-	</nav>
+  <nav>
+    <ul>
+      <li>
+        <a href="/"> Home </a>
+      </li>
+      <li>
+        <a href="/projects"> Projects </a>
+      </li>
+      <li>
+        <a href="/about"> About </a>
+      </li>
+      <li>
+        <a href="/contact"> Contact </a>
+      </li>
+      <li>
+        <a href="/uses"> Uses </a>
+      </li>
+    </ul>
+  </nav>
 </header>
 
 <style>
-	header {
+  header {
     display: flex;
     flex-wrap: wrap;
     justify-content: right;
     padding: 1rem;
-		margin-right: 4rem;
+    margin-right: 4rem;
   }
 
   ul {
@@ -51,16 +41,15 @@
     text-decoration: none;
   }
 
+  @media only screen and (max-width: 600px) {
+    header {
+      margin: auto;
+      justify-content: center;
+    }
 
-	@media only screen and (max-width: 600px) {
-		header {
-			margin: auto;
-			justify-content: center;
-		}
-
-		ul {
-			gap: 1rem;
-			padding: 0;
-		}
-	}
+    ul {
+      gap: 1rem;
+      padding: 0;
+    }
+  }
 </style>
